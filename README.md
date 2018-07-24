@@ -4,7 +4,7 @@ cat("\014")
 rm(list = ls(all=TRUE))
 list.files()
 
-path = "/Users/sandeepn/Desktop/PHD_Hackathon"
+path = "/Users/snehan/Desktop/PHD_Hackathon"
 setwd(path)
 
 ### Load external files.
